@@ -1,0 +1,14 @@
+
+a, a:hover{
+  color:#333
+
+}
+
+.enviar{background:transparent;box-shadow:none;color:red;margin-bottom:0;width:100px}
+.enviar:hover{text-decoration:underline}
+
+span{display:block;font-size:.8em;margin:0px 0 10px;padding:5px 0 5px 11px;width:200px}
+.confirmacion{background:transparent;border:none; color: green;}
+.negacion{background:transparent;border:none; color:red;}
+
+
